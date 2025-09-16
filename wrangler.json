@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-template",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "c608e82d-c2bc-4834-92c6-f452bed1ef88",
+      "database_name": "sonho-imobiliario"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
