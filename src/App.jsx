@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import './App.css'; // Opcional: Adicione um arquivo CSS para estilização
-import logo from './logo.png'; // Opcional: Se você tiver um logo na pasta src
 
 function App() {
   const [imoveis, setImoveis] = useState([]);
